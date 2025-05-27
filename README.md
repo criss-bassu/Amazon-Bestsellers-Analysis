@@ -17,17 +17,17 @@ This project satisfies the following learning outcomes:
 
 ## 🧪 Exercises
 
-- **Exercise 1 (5 Marks):** Identify authors with the most entries in the bestsellers list. For each, calculate:
+- **Exercise 1:** Identify authors with the most entries in the bestsellers list. For each, calculate:
   - Number of unique titles
   - Average rating
   - Total number of reviews
   - Highest rank achieved
 
-- **Exercise 2 (5 Marks):** For fiction and non-fiction books, compute the average and total reviews for the top 10, 25, and 50 bestsellers per year.
+- **Exercise 2:** For fiction and non-fiction books, compute the average and total reviews for the top 10, 25, and 50 bestsellers per year.
 
-- **Exercise 3 (10 Marks):** Calculate the average price of fiction and non-fiction books in the top 10, 25, and 50 bestsellers per year.
+- **Exercise 3:** Calculate the average price of fiction and non-fiction books in the top 10, 25, and 50 bestsellers per year.
 
-- **Exercise 4 (10 Marks):** Analyze free books (price = 0):
+- **Exercise 4:** Analyze free books (price = 0):
   - Count unique titles and authors
   - Compare average ratings and number of reviews per year with priced books
 
